@@ -1,0 +1,43 @@
+.sm {
+    height: 300px;
+    width: 100%;
+    background-image: url('../images/photo.jpg');
+    color:yellow;
+    background-size: cover;
+    background-color: red
+    
+}
+p {
+    border: 3px solid red;
+    width: 500px;
+    height: 130px;
+    margin: auto;
+    margin-top:30px;
+    
+}
+button {
+    margin-left: 50%;
+}
+
+.rahman {
+    background-color: red; ;
+    border: 4px solid aqua;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 50px;
+    height: 500px;
+    box-shadow: 5px 5px 10px;
+    
+}
+
+.block {
+    border: 2px solid aqua;
+    height: 200px;
+    width: 100px;
+   
+    display: inline block;
+    padding: 20px;
+    margin: 50px;
+    
+ 
+}
